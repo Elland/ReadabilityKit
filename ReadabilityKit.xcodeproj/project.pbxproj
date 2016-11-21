@@ -10,11 +10,7 @@
 		57156D6C1D632640008A9C49 /* Readability.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57156D6A1D632640008A9C49 /* Readability.swift */; };
 		57156D6F1D6326BD008A9C49 /* ReadabilityKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 57156D6E1D6326BD008A9C49 /* ReadabilityKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		57156D811D633264008A9C49 /* ReadabilityKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 57156D6E1D6326BD008A9C49 /* ReadabilityKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		57156E8F1D6334A1008A9C49 /* Ji.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 57156E8D1D6334A0008A9C49 /* Ji.framework */; };
-		57156E901D6334A8008A9C49 /* Ji.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 57156E8B1D6334A0008A9C49 /* Ji.framework */; };
-		57156EA01D633726008A9C49 /* Ji.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 57156E9F1D633726008A9C49 /* Ji.framework */; };
 		57156EA11D63377A008A9C49 /* ReadabilityKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 57156D6E1D6326BD008A9C49 /* ReadabilityKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		57156ED11D63399D008A9C49 /* Ji.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 57156ED01D63399D008A9C49 /* Ji.framework */; };
 		57156ED21D634087008A9C49 /* ReadabilityKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 57156D6E1D6326BD008A9C49 /* ReadabilityKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		57156F051D63493B008A9C49 /* ReadabilityKitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57156F041D63493B008A9C49 /* ReadabilityKitTests.swift */; };
 		57156F071D63493B008A9C49 /* ReadabilityKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 57156D5D1D632539008A9C49 /* ReadabilityKit.framework */; };
@@ -30,10 +26,6 @@
 		57156F291D634982008A9C49 /* PagesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57156F1C1D634982008A9C49 /* PagesTests.swift */; };
 		57156F2A1D634982008A9C49 /* TitleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57156F1D1D634982008A9C49 /* TitleTests.swift */; };
 		57156F2B1D634982008A9C49 /* VideoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57156F1E1D634982008A9C49 /* VideoTests.swift */; };
-		57156F2E1D634F0E008A9C49 /* Ji.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = 57156E8B1D6334A0008A9C49 /* Ji.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		57156F301D6350A3008A9C49 /* Ji.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = 57156E8D1D6334A0008A9C49 /* Ji.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		57156F321D6350BB008A9C49 /* Ji.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = 57156E9F1D633726008A9C49 /* Ji.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		57156F341D6350D6008A9C49 /* Ji.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = 57156ED01D63399D008A9C49 /* Ji.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		57185B6E1D7D7CF700C76FAD /* Readability+Networking.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57185B6D1D7D7CF700C76FAD /* Readability+Networking.swift */; };
 		57185B6F1D7D7CF700C76FAD /* Readability+Networking.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57185B6D1D7D7CF700C76FAD /* Readability+Networking.swift */; };
 		57185B701D7D7CF700C76FAD /* Readability+Networking.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57185B6D1D7D7CF700C76FAD /* Readability+Networking.swift */; };
@@ -49,6 +41,23 @@
 		57A51B891D7EFFA1005C574F /* Readability.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57156D6A1D632640008A9C49 /* Readability.swift */; };
 		57A51B8A1D7EFFA2005C574F /* Readability.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57156D6A1D632640008A9C49 /* Readability.swift */; };
 		57A51B8B1D7EFFA2005C574F /* Readability.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57156D6A1D632640008A9C49 /* Readability.swift */; };
+		9F0E76751DE30E6D00386C66 /* 5AA5456F-0CE0-3767-B1AB-D8FFE061FA9F.bcsymbolmap in Resources */ = {isa = PBXBuildFile; fileRef = 9F0E76661DE30E6D00386C66 /* 5AA5456F-0CE0-3767-B1AB-D8FFE061FA9F.bcsymbolmap */; };
+		9F0E767A1DE30E6D00386C66 /* 7D4B26A5-C635-3AD7-A5A4-F8DCCEC51740.bcsymbolmap in Resources */ = {isa = PBXBuildFile; fileRef = 9F0E76671DE30E6D00386C66 /* 7D4B26A5-C635-3AD7-A5A4-F8DCCEC51740.bcsymbolmap */; };
+		9F0E767F1DE30E6D00386C66 /* Ji.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9F0E76681DE30E6D00386C66 /* Ji.framework */; };
+		9F0E76801DE30E6D00386C66 /* Ji.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9F0E76681DE30E6D00386C66 /* Ji.framework */; };
+		9F0E76841DE30E6D00386C66 /* Ji.framework.dSYM in Resources */ = {isa = PBXBuildFile; fileRef = 9F0E76691DE30E6D00386C66 /* Ji.framework.dSYM */; };
+		9F0E768C1DE30E6D00386C66 /* Ji.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9F0E766B1DE30E6D00386C66 /* Ji.framework */; };
+		9F0E76971DE30E6D00386C66 /* AE12ABE6-FDFA-3F18-9BE0-E09D06B9F608.bcsymbolmap in Resources */ = {isa = PBXBuildFile; fileRef = 9F0E766E1DE30E6D00386C66 /* AE12ABE6-FDFA-3F18-9BE0-E09D06B9F608.bcsymbolmap */; };
+		9F0E769C1DE30E6D00386C66 /* Ji.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9F0E766F1DE30E6D00386C66 /* Ji.framework */; };
+		9F0E76A11DE30E6D00386C66 /* Ji.framework.dSYM in Resources */ = {isa = PBXBuildFile; fileRef = 9F0E76701DE30E6D00386C66 /* Ji.framework.dSYM */; };
+		9F0E76A41DE30E6D00386C66 /* 15B0E2D5-00F6-3EF0-A972-5FCCF0D89079.bcsymbolmap in Resources */ = {isa = PBXBuildFile; fileRef = 9F0E76721DE30E6D00386C66 /* 15B0E2D5-00F6-3EF0-A972-5FCCF0D89079.bcsymbolmap */; };
+		9F0E76AE1DE30E6D00386C66 /* Ji.framework.dSYM in Resources */ = {isa = PBXBuildFile; fileRef = 9F0E76741DE30E6D00386C66 /* Ji.framework.dSYM */; };
+		9F0E76B21DE30E9000386C66 /* Ji.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9F0E76731DE30E6D00386C66 /* Ji.framework */; };
+		9F0E76B31DE30E9E00386C66 /* Ji.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 9F0E76681DE30E6D00386C66 /* Ji.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		9F0E76B41DE30EA800386C66 /* Ji.framework.dSYM in Resources */ = {isa = PBXBuildFile; fileRef = 9F0E766C1DE30E6D00386C66 /* Ji.framework.dSYM */; };
+		9F0E76B51DE30ED100386C66 /* Ji.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 9F0E76731DE30E6D00386C66 /* Ji.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		9F0E76B61DE30EDA00386C66 /* Ji.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 9F0E766B1DE30E6D00386C66 /* Ji.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		9F0E76B71DE30EE300386C66 /* Ji.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 9F0E766F1DE30E6D00386C66 /* Ji.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		B04BC0DA1D7EC55200A3D1DD /* StringExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = B04BC0D91D7EC55200A3D1DD /* StringExtension.swift */; };
 		B04BC0DB1D7EC55200A3D1DD /* StringExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = B04BC0D91D7EC55200A3D1DD /* StringExtension.swift */; };
 		B04BC0DC1D7EC55200A3D1DD /* StringExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = B04BC0D91D7EC55200A3D1DD /* StringExtension.swift */; };
@@ -66,44 +75,48 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		57156F2C1D634EFA008A9C49 /* CopyFiles */ = {
+		57156F2C1D634EFA008A9C49 /* Embed Frameworks */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				57156F2E1D634F0E008A9C49 /* Ji.framework in CopyFiles */,
+				9F0E76B31DE30E9E00386C66 /* Ji.framework in Embed Frameworks */,
 			);
+			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		57156F2F1D635080008A9C49 /* CopyFiles */ = {
+		57156F2F1D635080008A9C49 /* Embed Frameworks */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				57156F301D6350A3008A9C49 /* Ji.framework in CopyFiles */,
+				9F0E76B51DE30ED100386C66 /* Ji.framework in Embed Frameworks */,
 			);
+			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		57156F311D6350B0008A9C49 /* CopyFiles */ = {
+		57156F311D6350B0008A9C49 /* Embed Frameworks */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				57156F321D6350BB008A9C49 /* Ji.framework in CopyFiles */,
+				9F0E76B61DE30EDA00386C66 /* Ji.framework in Embed Frameworks */,
 			);
+			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		57156F331D6350C2008A9C49 /* CopyFiles */ = {
+		57156F331D6350C2008A9C49 /* Embed Frameworks */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				57156F341D6350D6008A9C49 /* Ji.framework in CopyFiles */,
+				9F0E76B71DE30EE300386C66 /* Ji.framework in Embed Frameworks */,
 			);
+			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXCopyFilesBuildPhase section */
@@ -114,12 +127,8 @@
 		57156D6A1D632640008A9C49 /* Readability.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Readability.swift; sourceTree = "<group>"; };
 		57156D6E1D6326BD008A9C49 /* ReadabilityKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ReadabilityKit.h; sourceTree = "<group>"; };
 		57156D771D6331A0008A9C49 /* ReadabilityKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ReadabilityKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		57156E8B1D6334A0008A9C49 /* Ji.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Ji.framework; sourceTree = "<group>"; };
-		57156E8D1D6334A0008A9C49 /* Ji.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Ji.framework; sourceTree = "<group>"; };
 		57156E961D633706008A9C49 /* ReadabilityKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ReadabilityKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		57156E9F1D633726008A9C49 /* Ji.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Ji.framework; sourceTree = "<group>"; };
 		57156EC71D63395E008A9C49 /* ReadabilityKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ReadabilityKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		57156ED01D63399D008A9C49 /* Ji.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Ji.framework; sourceTree = "<group>"; };
 		57156F021D63493B008A9C49 /* ReadabilityKitTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ReadabilityKitTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		57156F041D63493B008A9C49 /* ReadabilityKitTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReadabilityKitTests.swift; sourceTree = "<group>"; };
 		57156F061D63493B008A9C49 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -138,6 +147,18 @@
 		57185B6D1D7D7CF700C76FAD /* Readability+Networking.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Readability+Networking.swift"; sourceTree = "<group>"; };
 		57185B771D7D7EF900C76FAD /* Readability+String.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Readability+String.swift"; sourceTree = "<group>"; };
 		57A51B841D7EF016005C574F /* Readability+Async.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Readability+Async.swift"; sourceTree = "<group>"; };
+		9F0E76661DE30E6D00386C66 /* 5AA5456F-0CE0-3767-B1AB-D8FFE061FA9F.bcsymbolmap */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "5AA5456F-0CE0-3767-B1AB-D8FFE061FA9F.bcsymbolmap"; sourceTree = "<group>"; };
+		9F0E76671DE30E6D00386C66 /* 7D4B26A5-C635-3AD7-A5A4-F8DCCEC51740.bcsymbolmap */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "7D4B26A5-C635-3AD7-A5A4-F8DCCEC51740.bcsymbolmap"; sourceTree = "<group>"; };
+		9F0E76681DE30E6D00386C66 /* Ji.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Ji.framework; sourceTree = "<group>"; };
+		9F0E76691DE30E6D00386C66 /* Ji.framework.dSYM */ = {isa = PBXFileReference; lastKnownFileType = wrapper.dsym; path = Ji.framework.dSYM; sourceTree = "<group>"; };
+		9F0E766B1DE30E6D00386C66 /* Ji.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Ji.framework; sourceTree = "<group>"; };
+		9F0E766C1DE30E6D00386C66 /* Ji.framework.dSYM */ = {isa = PBXFileReference; lastKnownFileType = wrapper.dsym; path = Ji.framework.dSYM; sourceTree = "<group>"; };
+		9F0E766E1DE30E6D00386C66 /* AE12ABE6-FDFA-3F18-9BE0-E09D06B9F608.bcsymbolmap */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "AE12ABE6-FDFA-3F18-9BE0-E09D06B9F608.bcsymbolmap"; sourceTree = "<group>"; };
+		9F0E766F1DE30E6D00386C66 /* Ji.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Ji.framework; sourceTree = "<group>"; };
+		9F0E76701DE30E6D00386C66 /* Ji.framework.dSYM */ = {isa = PBXFileReference; lastKnownFileType = wrapper.dsym; path = Ji.framework.dSYM; sourceTree = "<group>"; };
+		9F0E76721DE30E6D00386C66 /* 15B0E2D5-00F6-3EF0-A972-5FCCF0D89079.bcsymbolmap */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "15B0E2D5-00F6-3EF0-A972-5FCCF0D89079.bcsymbolmap"; sourceTree = "<group>"; };
+		9F0E76731DE30E6D00386C66 /* Ji.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Ji.framework; sourceTree = "<group>"; };
+		9F0E76741DE30E6D00386C66 /* Ji.framework.dSYM */ = {isa = PBXFileReference; lastKnownFileType = wrapper.dsym; path = Ji.framework.dSYM; sourceTree = "<group>"; };
 		B04BC0D91D7EC55200A3D1DD /* StringExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StringExtension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -146,7 +167,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				57156E901D6334A8008A9C49 /* Ji.framework in Frameworks */,
+				9F0E767F1DE30E6D00386C66 /* Ji.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -154,7 +175,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				57156E8F1D6334A1008A9C49 /* Ji.framework in Frameworks */,
+				9F0E76B21DE30E9000386C66 /* Ji.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -162,7 +183,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				57156EA01D633726008A9C49 /* Ji.framework in Frameworks */,
+				9F0E768C1DE30E6D00386C66 /* Ji.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -170,7 +191,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				57156ED11D63399D008A9C49 /* Ji.framework in Frameworks */,
+				9F0E769C1DE30E6D00386C66 /* Ji.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -179,6 +200,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				57156F071D63493B008A9C49 /* ReadabilityKit.framework in Frameworks */,
+				9F0E76801DE30E6D00386C66 /* Ji.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -233,44 +255,12 @@
 		57156E891D6334A0008A9C49 /* Dependencies */ = {
 			isa = PBXGroup;
 			children = (
-				57156ECF1D63399D008A9C49 /* tvOS */,
-				57156E9E1D633725008A9C49 /* macOS */,
-				57156E8A1D6334A0008A9C49 /* iOS */,
-				57156E8C1D6334A0008A9C49 /* watchOS */,
+				9F0E76651DE30E6D00386C66 /* iOS */,
+				9F0E766A1DE30E6D00386C66 /* Mac */,
+				9F0E766D1DE30E6D00386C66 /* tvOS */,
+				9F0E76711DE30E6D00386C66 /* watchOS */,
 			);
 			path = Dependencies;
-			sourceTree = "<group>";
-		};
-		57156E8A1D6334A0008A9C49 /* iOS */ = {
-			isa = PBXGroup;
-			children = (
-				57156E8B1D6334A0008A9C49 /* Ji.framework */,
-			);
-			path = iOS;
-			sourceTree = "<group>";
-		};
-		57156E8C1D6334A0008A9C49 /* watchOS */ = {
-			isa = PBXGroup;
-			children = (
-				57156E8D1D6334A0008A9C49 /* Ji.framework */,
-			);
-			path = watchOS;
-			sourceTree = "<group>";
-		};
-		57156E9E1D633725008A9C49 /* macOS */ = {
-			isa = PBXGroup;
-			children = (
-				57156E9F1D633726008A9C49 /* Ji.framework */,
-			);
-			path = macOS;
-			sourceTree = "<group>";
-		};
-		57156ECF1D63399D008A9C49 /* tvOS */ = {
-			isa = PBXGroup;
-			children = (
-				57156ED01D63399D008A9C49 /* Ji.framework */,
-			);
-			path = tvOS;
 			sourceTree = "<group>";
 		};
 		57156F031D63493B008A9C49 /* ReadabilityKitTests */ = {
@@ -316,6 +306,50 @@
 			);
 			path = Pages;
 			sourceTree = "<group>";
+		};
+		9F0E76651DE30E6D00386C66 /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				9F0E76661DE30E6D00386C66 /* 5AA5456F-0CE0-3767-B1AB-D8FFE061FA9F.bcsymbolmap */,
+				9F0E76671DE30E6D00386C66 /* 7D4B26A5-C635-3AD7-A5A4-F8DCCEC51740.bcsymbolmap */,
+				9F0E76681DE30E6D00386C66 /* Ji.framework */,
+				9F0E76691DE30E6D00386C66 /* Ji.framework.dSYM */,
+			);
+			name = iOS;
+			path = Carthage/Build/iOS;
+			sourceTree = SOURCE_ROOT;
+		};
+		9F0E766A1DE30E6D00386C66 /* Mac */ = {
+			isa = PBXGroup;
+			children = (
+				9F0E766B1DE30E6D00386C66 /* Ji.framework */,
+				9F0E766C1DE30E6D00386C66 /* Ji.framework.dSYM */,
+			);
+			name = Mac;
+			path = Carthage/Build/Mac;
+			sourceTree = SOURCE_ROOT;
+		};
+		9F0E766D1DE30E6D00386C66 /* tvOS */ = {
+			isa = PBXGroup;
+			children = (
+				9F0E766E1DE30E6D00386C66 /* AE12ABE6-FDFA-3F18-9BE0-E09D06B9F608.bcsymbolmap */,
+				9F0E766F1DE30E6D00386C66 /* Ji.framework */,
+				9F0E76701DE30E6D00386C66 /* Ji.framework.dSYM */,
+			);
+			name = tvOS;
+			path = Carthage/Build/tvOS;
+			sourceTree = SOURCE_ROOT;
+		};
+		9F0E76711DE30E6D00386C66 /* watchOS */ = {
+			isa = PBXGroup;
+			children = (
+				9F0E76721DE30E6D00386C66 /* 15B0E2D5-00F6-3EF0-A972-5FCCF0D89079.bcsymbolmap */,
+				9F0E76731DE30E6D00386C66 /* Ji.framework */,
+				9F0E76741DE30E6D00386C66 /* Ji.framework.dSYM */,
+			);
+			name = watchOS;
+			path = Carthage/Build/watchOS;
+			sourceTree = SOURCE_ROOT;
 		};
 /* End PBXGroup section */
 
@@ -363,7 +397,7 @@
 				57156D591D632539008A9C49 /* Frameworks */,
 				57156D5A1D632539008A9C49 /* Headers */,
 				57156D5B1D632539008A9C49 /* Resources */,
-				57156F2C1D634EFA008A9C49 /* CopyFiles */,
+				57156F2C1D634EFA008A9C49 /* Embed Frameworks */,
 			);
 			buildRules = (
 			);
@@ -382,7 +416,7 @@
 				57156D731D6331A0008A9C49 /* Frameworks */,
 				57156D741D6331A0008A9C49 /* Headers */,
 				57156D751D6331A0008A9C49 /* Resources */,
-				57156F2F1D635080008A9C49 /* CopyFiles */,
+				57156F2F1D635080008A9C49 /* Embed Frameworks */,
 			);
 			buildRules = (
 			);
@@ -401,7 +435,7 @@
 				57156E921D633706008A9C49 /* Frameworks */,
 				57156E931D633706008A9C49 /* Headers */,
 				57156E941D633706008A9C49 /* Resources */,
-				57156F311D6350B0008A9C49 /* CopyFiles */,
+				57156F311D6350B0008A9C49 /* Embed Frameworks */,
 			);
 			buildRules = (
 			);
@@ -420,7 +454,7 @@
 				57156EC31D63395E008A9C49 /* Frameworks */,
 				57156EC41D63395E008A9C49 /* Headers */,
 				57156EC51D63395E008A9C49 /* Resources */,
-				57156F331D6350C2008A9C49 /* CopyFiles */,
+				57156F331D6350C2008A9C49 /* Embed Frameworks */,
 			);
 			buildRules = (
 			);
@@ -504,6 +538,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9F0E767A1DE30E6D00386C66 /* 7D4B26A5-C635-3AD7-A5A4-F8DCCEC51740.bcsymbolmap in Resources */,
+				9F0E76751DE30E6D00386C66 /* 5AA5456F-0CE0-3767-B1AB-D8FFE061FA9F.bcsymbolmap in Resources */,
+				9F0E76841DE30E6D00386C66 /* Ji.framework.dSYM in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -511,6 +548,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9F0E76A41DE30E6D00386C66 /* 15B0E2D5-00F6-3EF0-A972-5FCCF0D89079.bcsymbolmap in Resources */,
+				9F0E76AE1DE30E6D00386C66 /* Ji.framework.dSYM in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -518,6 +557,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9F0E76B41DE30EA800386C66 /* Ji.framework.dSYM in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -525,6 +565,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9F0E76971DE30E6D00386C66 /* AE12ABE6-FDFA-3F18-9BE0-E09D06B9F608.bcsymbolmap in Resources */,
+				9F0E76A11DE30E6D00386C66 /* Ji.framework.dSYM in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -725,6 +767,10 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/Dependencies/iOS",
+					"$(PROJECT_DIR)/Carthage/Build/iOS",
+					"$(PROJECT_DIR)/Carthage/Build/Mac",
+					"$(PROJECT_DIR)/Carthage/Build/tvOS",
+					"$(PROJECT_DIR)/Carthage/Build/watchOS",
 				);
 				INFOPLIST_FILE = Sources/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
@@ -750,6 +796,10 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/Dependencies/iOS",
+					"$(PROJECT_DIR)/Carthage/Build/iOS",
+					"$(PROJECT_DIR)/Carthage/Build/Mac",
+					"$(PROJECT_DIR)/Carthage/Build/tvOS",
+					"$(PROJECT_DIR)/Carthage/Build/watchOS",
 				);
 				INFOPLIST_FILE = Sources/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
@@ -780,6 +830,10 @@
 					OS,
 					"$(PROJECT_DIR)/Dependencies/watchOS",
 					"$(PROJECT_DIR)/Dependencies/iOS",
+					"$(PROJECT_DIR)/Carthage/Build/iOS",
+					"$(PROJECT_DIR)/Carthage/Build/Mac",
+					"$(PROJECT_DIR)/Carthage/Build/tvOS",
+					"$(PROJECT_DIR)/Carthage/Build/watchOS",
 				);
 				INFOPLIST_FILE = Sources/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
@@ -812,6 +866,10 @@
 					OS,
 					"$(PROJECT_DIR)/Dependencies/watchOS",
 					"$(PROJECT_DIR)/Dependencies/iOS",
+					"$(PROJECT_DIR)/Carthage/Build/iOS",
+					"$(PROJECT_DIR)/Carthage/Build/Mac",
+					"$(PROJECT_DIR)/Carthage/Build/tvOS",
+					"$(PROJECT_DIR)/Carthage/Build/watchOS",
 				);
 				INFOPLIST_FILE = Sources/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
@@ -839,6 +897,10 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/Dependencies/macOS",
+					"$(PROJECT_DIR)/Carthage/Build/iOS",
+					"$(PROJECT_DIR)/Carthage/Build/Mac",
+					"$(PROJECT_DIR)/Carthage/Build/tvOS",
+					"$(PROJECT_DIR)/Carthage/Build/watchOS",
 				);
 				FRAMEWORK_VERSION = A;
 				INFOPLIST_FILE = Sources/Info.plist;
@@ -867,6 +929,10 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/Dependencies/macOS",
+					"$(PROJECT_DIR)/Carthage/Build/iOS",
+					"$(PROJECT_DIR)/Carthage/Build/Mac",
+					"$(PROJECT_DIR)/Carthage/Build/tvOS",
+					"$(PROJECT_DIR)/Carthage/Build/watchOS",
 				);
 				FRAMEWORK_VERSION = A;
 				INFOPLIST_FILE = Sources/Info.plist;
@@ -893,6 +959,10 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/Dependencies/tvOS",
+					"$(PROJECT_DIR)/Carthage/Build/iOS",
+					"$(PROJECT_DIR)/Carthage/Build/Mac",
+					"$(PROJECT_DIR)/Carthage/Build/tvOS",
+					"$(PROJECT_DIR)/Carthage/Build/watchOS",
 				);
 				INFOPLIST_FILE = Sources/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
@@ -920,6 +990,10 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/Dependencies/tvOS",
+					"$(PROJECT_DIR)/Carthage/Build/iOS",
+					"$(PROJECT_DIR)/Carthage/Build/Mac",
+					"$(PROJECT_DIR)/Carthage/Build/tvOS",
+					"$(PROJECT_DIR)/Carthage/Build/watchOS",
 				);
 				INFOPLIST_FILE = Sources/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
@@ -937,6 +1011,13 @@
 		57156F0B1D63493B008A9C49 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/iOS",
+					"$(PROJECT_DIR)/Carthage/Build/Mac",
+					"$(PROJECT_DIR)/Carthage/Build/tvOS",
+					"$(PROJECT_DIR)/Carthage/Build/watchOS",
+				);
 				INFOPLIST_FILE = ReadabilityKitTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.exyte.readabilitykit.ReadabilityKitTests;
@@ -949,6 +1030,13 @@
 		57156F0C1D63493B008A9C49 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/iOS",
+					"$(PROJECT_DIR)/Carthage/Build/Mac",
+					"$(PROJECT_DIR)/Carthage/Build/tvOS",
+					"$(PROJECT_DIR)/Carthage/Build/watchOS",
+				);
 				INFOPLIST_FILE = ReadabilityKitTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.exyte.readabilitykit.ReadabilityKitTests;
