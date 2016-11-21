@@ -1,1 +1,2 @@
 github "honghaoz/Ji" "2.0.1"
+git "../ReadabilityKit" "46c0de24e08627a6cc8752d0d70e29ef703f02ee"
